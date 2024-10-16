@@ -12,7 +12,7 @@ To use the exercises, please curl the file to your machine and edit it with vim.
 ### press j to go down
 
 ### press l to follow the line
----------------------------o " press x to delete the o
+--------------------------- " press x to delete the o
                              " press j to go to the next action
 
 
@@ -45,7 +45,7 @@ To use the exercises, please curl the file to your machine and edit it with vim.
  o------+
 
 ### press l, j, h, and k to follow the line and x to delete the o
--+      +------+      +------+      +-----o
+-+      +------+      +------+      +-----
  |      |      |      |      |      |
  |      |      |      |      |      |
  +------+      |      |      +------+
@@ -57,7 +57,7 @@ To use the exercises, please curl the file to your machine and edit it with vim.
         +-------------+
 
 ### press w to get to o and press x to delete
-+-+      +------+      +------+      +-----o
++-+      +------+      +------+      +-----
 
 ### b = inverse w: press w, j, and b to get to o and press x to delete
 +-+      +------+      +------+      +-----+
